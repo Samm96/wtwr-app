@@ -1,5 +1,5 @@
 # WTWR (What to Wear?) Application 🎽
-__A four-week international collaboration with 7 other members to code a REACT responsive app that recommends clothing based on the user’s weather and location. This code will be used as future canonical code for Practicum USA's Software Engineering program students' project.__
+_A four-week international collaboration with 7 other members to code a REACT responsive app that recommends clothing based on the user’s weather and location. This code will be used as future canonical code for Practicum USA's Software Engineering program students' project._
 
 <div>
 <img src="https://user-images.githubusercontent.com/89945416/207427020-911378ea-03fe-4cab-b05f-f91122cf61e0.jpeg" width="49%"/>
@@ -38,7 +38,4 @@ __A four-week international collaboration with 7 other members to code a REACT r
 - [Figma Design](https://www.figma.com/file/lNHEpsFEPoFVfsCDUf8nKA/WTWR-(Apiary)?node-id=163%3A194)
 - [Project Description](https://github.com/practicum-student/wtwr-app/blob/main/Project%20Description.md)
 - [Technical Tasks](https://github.com/practicum-student/wtwr-app/blob/main/Tasks.md)
-
-<br>
-
 - [Live Site](https://wtwr.students.nomoredomainssbs.ru/)
